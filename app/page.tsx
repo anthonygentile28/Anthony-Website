@@ -37,7 +37,7 @@ export default function Home() {
             <div className="relative w-24 h-24 rounded-full overflow-hidden mb-4">
               <img src="/placeholder.svg?height=96&width=96" alt="Anthony Gentile" className="object-cover" />
             </div>
-            <h1 className="text-4xl md:text-6xl font-bold">Hi, I'm Anthony Gentile</h1>
+            <h1 className="text-4xl md:text-6xl font-bold">Hi, I'm Anthony Gentile!</h1>
             <p className="text-xl md:text-2xl text-muted-foreground max-w-[700px]">
               High school student passionate about Next.js and Python development
             </p>
